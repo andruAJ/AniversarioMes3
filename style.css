@@ -57,4 +57,5 @@ header .textos-header{
 .gifs{
     display: flex;
     justify-content: center;
+    padding: 100px 0 0 0;
 }
