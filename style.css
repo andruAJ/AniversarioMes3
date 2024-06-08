@@ -1,6 +1,9 @@
 .imagenFondo{
     z-index: -1;
     position: absolute;
+    scale:55% ;
+    transform: translate(-45%,-50%);
+    
 }
 body{
     margin: 0;
@@ -50,4 +53,8 @@ header .textos-header{
     justify-content: center;
     flex-direction: column;
     text-align: center;
+}
+.gifs{
+    display: flex;
+    justify-content: center;
 }
